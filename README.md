@@ -1,1 +1,1 @@
-# Learning_about_Credit_Information
+# Resolution of the Integrated Exercises: Credit_Information_Learning
